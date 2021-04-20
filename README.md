@@ -21,7 +21,7 @@ Everyone is on their own journey, learning at their own pace.
  
  [markdown](https://yoshiontheloose.github.io/reading-notes/markdown)
  
- [Read 02](https://github.com/yoshiontheloose/reading-notes/blob/cb6dfa2faf9406e9ab18f3a3191ce6c47dcdde40/The%20Coder's%20Computer%20(Read%2002%20notes))
+ [the coder's computer](https://yoshiontheloose.github.io/reading-notes/the-coders-computer)
  
  [test](https://github.com/yoshiontheloose/reading-notes/blob/main/test.md)
  
