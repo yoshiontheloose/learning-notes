@@ -26,6 +26,8 @@ Repository - a collection of files or folders you tell Git to pay attention to
   * Large projects can have multiple repositories for different parts of the system
   *
 
+
+git clone to add repository
 (A) Add staging (git add README.md)
 (C) Commit (git commit -m "your message here" *quotations necessary*
 git status - shows us where we are
