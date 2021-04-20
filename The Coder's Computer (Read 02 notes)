@@ -31,4 +31,56 @@
     * file manager 
     * compiler 
     * debugger
+    
+
+# Command Line
+  - A Text based interface to the system
+    1. Prompt
+    2. Command (you type)
+    3. command line argument. Space needed between command and line argument
+    4. Option- first command line argument
+      * used to modify the behaviour of the command
+      * listed before other arguments
+      * start with a dash (-) most of the time
+    5. command output 
+      * listed under the command issued
+      * Some commands will NOT display output unless an error occurs
+    6. Prompt 
+      * Displays when command has run 
+      * Ready for next command
+      * No prompt means command still running
+      
+## Opening a terminal 
+  Mac: Applications \-> Utilities or command + space, type terminal
+  
+## Shell -how the terminal looks and/or behaves after running commands 
+  - Most common is called bash (Bourne Again Shell)
+  - echo 
+    * A command to see your current shell. Used to display messages.
+
+## Shortcut 
+  -Commands are stored 
+  - use up and down arrow keys to avoid re-typing previously used commands 
+  
+  
+# Basic Navigation
+
+## Commands
+  * pwd (print working directory) -current working directory
+  * ls (list) -what is there
+  
+  
+  
+##Paths 
+  - 2 types: Absolute and relative
+  - refer to a file or directory
+  - system directs to same location with either path when we refer file or directory
+  
+ Root directory -noted with one slash (/)
+ 
+  
+  
+  
+  
+  
    
