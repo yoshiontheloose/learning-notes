@@ -21,7 +21,8 @@
  strikethrough | \~~strikethrough~~
  All bold and italic | \*\*\*allboldanditalic\*\*\*
  Quote text | \> or highlight text, type "r"
- Quote code | \`code text`
+ Quote code | \`code text\`
+ Links
   
   
   
