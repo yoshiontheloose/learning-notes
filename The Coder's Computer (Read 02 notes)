@@ -1,0 +1,34 @@
+# Text editor 
+  - downloaded
+  - helps to have a space to write and manage text
+  
+#### Features to look for in a text editor
+  - code completion 
+    * displays code suggestions as you type
+    * close tags, brackets, quotation marks, etc.
+    * Emmett: A language extension to speed up code writing
+  
+  - syntax highlighting
+    * highlights what you're typing to distinguish what/where you are typing
+  
+  - themes for personal prefrences 
+    * color of background 
+    * color of text
+    * choose what is best for your eyes
+  
+  - selection of extensions 
+    * plug ins for text editor
+    * ability to add functionality
+    
+ Mac- TextEdit
+ Windows- Notepad
+    * bare minimum stock text editors
+    * save files in .html or .css
+    
+ IDE (Integrated Development Environment) 
+  - many softwares in one
+    * text editor 
+    * file manager 
+    * compiler 
+    * debugger
+   
