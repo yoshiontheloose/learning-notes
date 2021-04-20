@@ -31,10 +31,7 @@
   
  * [Important to Bookmark](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
   
-list
-  > * list
-  > * list
-  
+
   
   
   
