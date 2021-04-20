@@ -7,8 +7,7 @@
   Use \ before styling keys to ignore their styling effects
   
   Make lists by using - or \* space yourtext
-
-* [Important to Bookmark](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+  
 
 ### Headings 
  -make a heading using, \# space yourtext.
@@ -27,6 +26,7 @@
  Links | \[link text](URL) or Command K
   
   
+ * [Important to Bookmark](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
   
 
   
