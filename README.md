@@ -18,7 +18,7 @@ Everyone is on their own journey, learning at their own pace.
 # Table of Contents
  
  [markdown](https://github.com/yoshiontheloose/reading-notes/blob/main/markdown.md)
-
+ [Read 02](https://github.com/yoshiontheloose/reading-notes/blob/cb6dfa2faf9406e9ab18f3a3191ce6c47dcdde40/The%20Coder's%20Computer%20(Read%2002%20notes)
  
   
 
