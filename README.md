@@ -23,13 +23,5 @@ Everyone is on their own journey, learning at their own pace.
  
  [the coder's computer](https://yoshiontheloose.github.io/reading-notes/the-coders-computer)
  
-heading for list
- * words
- * words
- * words
-
-heading for list
- - words
- - words
  
 
