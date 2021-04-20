@@ -6,10 +6,8 @@ The ability to take oneself out of a comfort zone to learn something new while p
  
 ## Keeping the Growth Mindset
  
- * _climb the wall of distractions_ 
- 
+ * _climb the wall of distractions_  
  * _ask questions or research when met with an obstacle_
- 
  * _take a step back when needed then re-engage_
   
 :partying_face:	:partying_face:	
