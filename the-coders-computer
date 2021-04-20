@@ -72,7 +72,8 @@
   * ls (list) -what is there
   * cd -change directory
     - run without arguments to return to home directory
-  
+  * touch -add 
+  * rm -rf -remove
   
 ##Paths 
   - 2 types: Absolute and relative
