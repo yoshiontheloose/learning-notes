@@ -1,17 +1,17 @@
 # Markdown -The syntax of Github, text styling
 
-  Prominent keys used: *, #, 
+  Prominent keys used: \*, \#, 
   
   Blank space between code lines to make a new paragraph 
   
   Use \ before styling keys to ignore their styling effects
   
-  Make lists by using - or \*
+  Make lists by using - or \* space yourtext
 
 * [Important to Bookmark](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 ### Headings 
- -make a heading using, "\# yourtext."
+ -make a heading using, \# space yourtext.
  
  -use more ###, for smaller heading size. 6 maximum.
  
