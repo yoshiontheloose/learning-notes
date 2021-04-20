@@ -23,7 +23,6 @@ Everyone is on their own journey, learning at their own pace.
  
  [the coder's computer](https://yoshiontheloose.github.io/reading-notes/the-coders-computer)
  
- [test](https://github.com/yoshiontheloose/reading-notes/blob/main/test.md)
  
   
 
