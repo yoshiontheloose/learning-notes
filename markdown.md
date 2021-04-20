@@ -16,7 +16,7 @@
  
  
  ### Text Key
- Bold | \**Bold** or \_Bold_
+ Bold | \*\*Bold\*\* or \_Bold_
  ----- | -----
  Italic | \*italic* or \-italic-
  strikethrough | \~~strikethrough~~
