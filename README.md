@@ -4,7 +4,7 @@
 
 The ability to take oneself out of a comfort zone to learn something new while perservering through new challenges towards growth.
  
- ## Keeping the Growth Mindset
+## Keeping the Growth Mindset
  
  * _climb the wall of distractions_ 
  
