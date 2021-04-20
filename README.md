@@ -1,4 +1,4 @@
-** Welcome! My name is Clarissa. This is my note taking page. [Here](https://github.com/yoshiontheloose) is a link to my github. **
+**Welcome! My name is Clarissa. This is my note taking page. [Here](https://github.com/yoshiontheloose) is a link to my github.**
 
 # Growth Mindset
 
