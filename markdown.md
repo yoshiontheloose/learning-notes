@@ -20,7 +20,8 @@
  Italic | \*italic* or \-italic-
  strikethrough | \~~strikethrough~~
  All bold and italic | \*\*\*allboldanditalic\*\*\*
- Quote text | \> or highlight text, type "\r"
+ Quote text | \> or highlight text, type "r"
+ Quote code | `code text`
   
   
   
