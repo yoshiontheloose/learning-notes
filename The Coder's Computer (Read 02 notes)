@@ -93,7 +93,22 @@
  .. | parent directory | can use many times, listing of root directory
  
  
+# Files 
+***Everything is a file***
 
+File Extension: 2-4 characters at the end of the file indicating file type (.exe, .gif, .jpg, etc)
+
+Treat things like they are all case sensitive
+
+Anything inside quotes is considered a single item "" or \`\`
+
+Hidden files
+  - create or rename file with a dot (.) to hide files 
+  - remove . to unhide
+  - command "ls" will not show hidden files and directories
+    * To see hidden files use ls space \-a   "ls \-a"
+    * ls \-a will show directory AND hidden files
+  
   
   
   
