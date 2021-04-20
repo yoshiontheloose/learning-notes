@@ -28,5 +28,5 @@ Repository - a collection of files or folders you tell Git to pay attention to
 
 (A) Add staging (git add README.md)
 (C) Commit (git commit -m "your message here" *quotations necessary*
-git status
+git status - shows us where we are
 (P) Push  update github (git push origin main)
