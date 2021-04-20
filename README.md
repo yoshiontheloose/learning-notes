@@ -2,7 +2,9 @@
 
 # Growth Mindset 
 
-The ability to take oneself out of the comfort zone to learn something new while perservering through new challenges towards growth.
+The ability to take oneself out of a comfort zone to learn something new while perservering through new challenges towards growth.
+ 
+ ## Keeping the Growth Mindset
  
  * _climb the wall of distractions_ 
  
@@ -10,7 +12,13 @@ The ability to take oneself out of the comfort zone to learn something new while
  
  * _take a step back when needed then re-engage_
   
- :partying_face:	
+:partying_face:	:partying_face:	
+
+### Food for Positivity
+Everyone is on their own journey, learning at their own pace. 
+
+
+
  
   
 
