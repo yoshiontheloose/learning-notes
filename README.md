@@ -15,6 +15,8 @@ The ability to take oneself out of a comfort zone to learn something new while p
 ### Food for Positivity
 Everyone is on their own journey, learning at their own pace. 
 
+**Always** submit something rather than have late assignments that are perfect. You can edit later!
+
 # Table of Contents
  
  [markdown](https://github.com/yoshiontheloose/reading-notes/blob/main/markdown.md)
