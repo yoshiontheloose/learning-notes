@@ -18,8 +18,8 @@
  Bold | \**Bold** or \_Bold_
  ----- | -----
  Italic | \*italic* or \-italic-
- ----- | -----
  strikethrough | \~~strikethrough~~
+ All bold and italic | \***allboldanditalic***
   
   
   
