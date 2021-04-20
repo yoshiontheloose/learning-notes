@@ -10,5 +10,5 @@ The ability to take oneself out of the comfort zone to learn something new while
  
   *take a step back when needed then re-engage
   
-😺  
+  :partying_face:	:partying_face:	:partying_face:	
 
