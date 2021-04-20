@@ -5,6 +5,8 @@
   Blank space between code lines to make a new paragraph 
   
   Use \ before styling keys to ignore their styling effects
+  
+  Make lists by using - or \*
 
 * [Important to Bookmark](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
