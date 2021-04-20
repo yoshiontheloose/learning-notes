@@ -18,6 +18,7 @@ The ability to take oneself out of a comfort zone to learn something new while p
 Everyone is on their own journey, learning at their own pace. 
 
 #Table of Contents
+ 
  [markdown](https://github.com/yoshiontheloose/reading-notes/blob/c0150a31857723ba7edff81f8ebb0fcaac54f5b3/markdown.md)
 
  
