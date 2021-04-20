@@ -22,7 +22,7 @@
  All bold and italic | \*\*\*allboldanditalic\*\*\*
  Quote text | \> or highlight text, type "r"
  Quote code | \`code text\`
- Links
+ Links | \[link text](URL) or Command K
   
   
   
