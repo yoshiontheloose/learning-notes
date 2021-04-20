@@ -4,11 +4,11 @@
 
 The ability to take oneself out of the comfort zone to learn something new while perservering through new challenges towards growth.
  
- * climb the wall of distractions 
+ * _climb the wall of distractions_ 
  
- * ask questions or research when met with an obstacle
+ * _ask questions or research when met with an obstacle_
  
- * take a step back when needed then re-engage
+ * _take a step back when needed then re-engage_
   
   
   :partying_face: 	:partying_face: 	:partying_face:	
