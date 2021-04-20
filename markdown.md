@@ -1,10 +1,13 @@
-# Markdown -The syntax of Github
+# Markdown -The syntax of Github, text styling
 
-  Prominent features are using *, #, -,. 
+  Prominent keys used: *, #, 
 
 * [Bookmark](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 ### Headings 
-  -the more #'s in beginning of a header, the smaller the heading
+  -make a heading using "#" yourtext
+  -use more ###, for smaller heading size
+  
+  
   
   
