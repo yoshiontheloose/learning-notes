@@ -15,7 +15,8 @@
  
  
  ### Text Key
- 
+ Bold | \**Bold** or \_Bold_
+ ----- | -----
   
   
   
