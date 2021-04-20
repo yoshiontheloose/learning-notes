@@ -59,8 +59,10 @@
     * A command to see your current shell. Used to display messages.
 
 ## Shortcut 
-  -Commands are stored 
+  -Commands are stored in history
   - use up and down arrow keys to avoid re-typing previously used commands 
+  
+  - Tab Completion: Use tab key when typing a path, double tab to bring up options for auto complete
   
   
 # Basic Navigation
@@ -68,7 +70,8 @@
 ## Commands
   * pwd (print working directory) -current working directory
   * ls (list) -what is there
-  
+  * cd -change directory
+    - run without arguments to return to home directory
   
   
 ##Paths 
@@ -76,8 +79,21 @@
   - refer to a file or directory
   - system directs to same location with either path when we refer file or directory
   
- Root directory -noted with one slash (/)
+ **Root directory** -noted with one forward slash (/)
+  - mother of subdirectories
+  - files can live here (sub or root)
+  
+  -Absolute paths- location in relation to the root directory. **Always** begin with a forward slash (/)
+  -Relative paths- location related to where we currently are in the file system. No slash. 
+  
+ shortcut | For | Example
+ ----- | ----- | -----
+ ~ | shortcut for home directory | ~/Documents
+ . | current directory | ./Documents
+ .. | parent directory | can use many times, listing of root directory
  
+ 
+
   
   
   
