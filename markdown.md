@@ -25,6 +25,9 @@
  Quote code | \`code text\`
  Links | \[link text](URL) or Command K
   
+### Links
+  - add a hyperlink with \[]() Example: \[github](www.github.com)
+  - add a picture by adding an exclamation in front. \![look at this]\(www.image.jpg)
   
  * [Important to Bookmark](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
   
