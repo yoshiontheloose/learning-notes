@@ -6,7 +6,10 @@
 
 ### Headings 
   -make a heading using "#" yourtext
+  
   -use more ###, for smaller heading size
+  
+  
   
   
   
