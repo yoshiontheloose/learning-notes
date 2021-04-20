@@ -1,0 +1,32 @@
+## Git is a DVCS. 
+
+
+
+
+##Version control system (VCS)
+ - Version control allows you to revert a file or project to a previous version.
+ - tracks modifications and who modifies
+ - compares changes
+ - mistakes with files can be fixed
+ 
+### Types of Version Controls
+ CVCS: Centralized Version Control System
+  - Developer team collaboration on a single file or file set
+  - Allows one server to store all changes and file versions
+  - Eliminates the need to use all local databases
+ 
+ DVCS: Distributed Version Control
+  - Allows clients to make repository copies
+  - Useful if CVCS server goes down
+  - Can be placed back onto server to replace lost info
+ 
+ 
+
+Repository - a collection of files or folders you tell Git to pay attention to 
+  * Large projects can have multiple repositories for different parts of the system
+  *
+
+(A) Add staging (git add README.md)
+(C) Commit (git commit -m "your message here" *quotations necessary*
+git status
+(P) Push  update github (git push origin main)
