@@ -1,5 +1,15 @@
 ## Git is a DVCS. 
+  * Relies on local operations/local disk
+  * Every change in file or directory is tracked by Git
+  * Makes it very hard for a snaphot of a committed file to be lost
+  * includes GUI tools
 
+_Git States_
+  * Committed - Securely stored in a local database
+  * Modified - Changed but not yet committed to database
+  * Staged - Changed version to be committed in next snapshot
+
+GUI - Graphical User Interface
 
 
 
@@ -19,12 +29,12 @@
   - Allows clients to make repository copies
   - Useful if CVCS server goes down
   - Can be placed back onto server to replace lost info
+  - mirrored repositories
  
- 
-
 Repository - a collection of files or folders you tell Git to pay attention to. Your project.  
   * Large projects can have multiple repositories for different parts of the system
-  *
+
+Snapshots -a saved version of a project. Commit command takes a snapshot of the file to store it. 
 
 
 # Git Commands
@@ -45,6 +55,17 @@ git clone (URL of repository) -to add repository (project)
 git status - shows us where we are
 
 git pull -retrieves newer changes from git
+
+### Identity Setting
+  git config --global user.name "git username" (incude quotes)
+  git config --global user.email "git emal" (include quotes)
+
+### Getting Help
+ * git help _command_
+ * git _command_ --help
+ * man git-_command_
+
+ [Reading Source](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 
 [<<<Back](README.md)
