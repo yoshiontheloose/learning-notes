@@ -74,6 +74,12 @@
     - run without arguments to return to home directory
   * touch -add 
   * rm -rf -remove
+  * mkdir -make a folder
+  * mv -move
+  * cp -copy
+
+
+
   
 ##Paths 
   - 2 types: Absolute and relative
