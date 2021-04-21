@@ -25,3 +25,5 @@ Everyone is on their own journey, learning at their own pace.
  
  [Git Notes](https://yoshiontheloose.github.io/reading-notes/git-notes)
 
+ [HTML Reading](reading04.md)
+
