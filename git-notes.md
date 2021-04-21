@@ -40,8 +40,9 @@ Snapshots -a saved version of a project. Commit command takes a snapshot of the 
 # Git Commands
 
 git clone (URL of repository) -to add repository (project) 
- 
- ## A C P
+
+## A C P
+
   **(Add)**  
    * git add (file name) -Adds staging 
  
