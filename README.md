@@ -17,6 +17,8 @@ Everyone is on their own journey, learning at their own pace.
 
 **Always** submit something rather than have late assignments that are perfect. You can edit later!
 
+** _Beware the CSS sinkhole of time_ **
+
 # Table of Contents
  
  [Markdown](https://yoshiontheloose.github.io/reading-notes/markdown)
