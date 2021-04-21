@@ -43,4 +43,5 @@ git clone (URL of repository) -to add repository (project)
 
 
 git status - shows us where we are
+
 git pull -retrieves newer changes from git
