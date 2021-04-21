@@ -88,7 +88,7 @@
   -Relative paths- location related to where we currently are in the file system. No slash. 
   
  shortcut | For | Example
- ----- | ----- | -----
+ ------- | ------- | -------
  ~ | shortcut for home directory | ~/Documents
  . | current directory | ./Documents
  .. | parent directory | can use many times, listing of root directory
