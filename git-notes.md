@@ -42,5 +42,5 @@ git clone (URL of repository) -to add repository (project)
    * git push origin main -updates github
 
 
-* git status - shows us where we are
-* git pull -retrieves newer changes from git
+git status - shows us where we are
+git pull -retrieves newer changes from git
