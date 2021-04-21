@@ -32,12 +32,15 @@ Repository - a collection of files or folders you tell Git to pay attention to. 
 git clone (URL of repository) -to add repository (project) 
  
  ## A C P
- **(Add)**  
-  * git add README.md -Adds staging 
- **(Commit)** 
-  * git commit -m "your message here" *quotations necessary* -commits
- **(Push)**  
-  * git push origin main -updates github
+  **(Add)**  
+   * git add README.md -Adds staging 
+ 
+  **(Commit)** 
+   * git commit -m "your message here" *quotations necessary* -commits
+ 
+  **(Push)**  
+   * git push origin main -updates github
+
 
  * git status - shows us where we are
  * git pull -retrieves newer changes from git
