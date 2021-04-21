@@ -77,6 +77,10 @@
   * mkdir -make a folder
   * mv -move
   * cp -copy
+  * open -opens GUI (graphical user interface) add location after
+    * open $PWD -opens physical finder window
+  * echo  -A command to see your current shell. Used to display messages.
+  * code -opens visual studio code with path given 
 
 
 
