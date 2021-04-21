@@ -6,9 +6,9 @@ The ability to take oneself out of a comfort zone to learn something new while p
  
 ## Keeping the Growth Mindset
  
- * _climb the wall of distractions_  
- * _ask questions or research when met with an obstacle_
- * _take a step back when needed then re-engage_
+* _climb the wall of distractions_  
+* _ask questions or research when met with an obstacle_
+* _take a step back when needed then re-engage_
   
 :partying_face:	:partying_face:	
 
@@ -19,9 +19,9 @@ Everyone is on their own journey, learning at their own pace.
 
 # Table of Contents
  
- [markdown](https://yoshiontheloose.github.io/reading-notes/markdown)
+ [Markdown](https://yoshiontheloose.github.io/reading-notes/markdown)
  
- [the coder's computer](https://yoshiontheloose.github.io/reading-notes/the-coders-computer)
+ [The Coder's Computer](https://yoshiontheloose.github.io/reading-notes/the-coders-computer)
  
- 
+ [Git Notes](https://yoshiontheloose.github.io/reading-notes/git-notes)
 
