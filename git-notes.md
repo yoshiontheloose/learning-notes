@@ -33,7 +33,7 @@ git clone (URL of repository) -to add repository (project)
  
  ## A C P
   **(Add)**  
-   * git add README.md -Adds staging 
+   * git add (file name) -Adds staging 
  
   **(Commit)** 
    * git commit -m "your message here" *quotations necessary* -commits
@@ -45,3 +45,6 @@ git clone (URL of repository) -to add repository (project)
 git status - shows us where we are
 
 git pull -retrieves newer changes from git
+
+
+[<<<Back](README.md)
