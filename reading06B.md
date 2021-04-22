@@ -5,3 +5,4 @@ what makes a computer, a computer?
         - processing
         - output
 
+The Binary Number System
