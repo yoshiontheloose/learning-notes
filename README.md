@@ -36,3 +36,5 @@ Everyone is on their own journey, learning at their own pace.
  [reading 06B](reading06B.md)
 
  [Programming with Javascript](reading07.md)
+
+ [Operators and Loops](reading08.md)
