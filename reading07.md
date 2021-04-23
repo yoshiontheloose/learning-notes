@@ -42,29 +42,29 @@ Flowcharts are handy tools to fit tasks together because they show the paths bet
 
 ### What is a function
 Functions - allow you to group a series of statements together to perform a specific task
-    * If parts of a script repeat the same task, you can reuse the function instead of repeating the same set of statements
-    * functions are also a way to store the steps needed for a task 
-    * function name should describe the task you are performing 
-    * Calling the function - aka asking the function to perform it's task
+* If parts of a script repeat the same task, you can reuse the function instead of repeating the same set of statements
+* functions are also a way to store the steps needed for a task 
+* function name should describe the task you are performing 
+* Calling the function - aka asking the function to perform it's task
 
 Parameters - Pieces of info passed to a function 
 
 Creating a function
-    - declare function using "function" as a keyword   
+- declare function using "function" as a keyword   
         EX: function
-    - give the function an identifier followed by parentheses ()
+ - give the function an identifier followed by parentheses ()
         EX: sayHello()
     - statements to perform task go in a code block in curly braces {}
         EX: document.write('Hello!');
 
-        \function sayHello() {
+        - \function sayHello() {
             document.write('Hello!');
         }
 
 Declaring functions that need parameters
-    * a function that needs specific information to perform it's task
-    * parameters are used like variables within the function
-        In \function getArea(width, height)
-        (width, height) is the parameter
+* a function that needs specific information to perform it's task
+* parameters are used like variables within the function
+    - In function getArea(width, height)
+        (width, height) is the parameter    
     
     *Arguments - variables are more specific. The example above would have the numbers of width and height. 
