@@ -31,7 +31,7 @@ Everyone is on their own journey, learning at their own pace.
 
  [Understanding CSS](reading05.md)
 
- [reading 06A](reading06A.md)
+ [Javascript Basics](reading06A.md)
 
  [reading 06B](reading06B.md)
 
