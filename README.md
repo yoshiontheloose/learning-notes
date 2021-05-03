@@ -20,6 +20,8 @@ Everyone is on their own journey, learning at their own pace.
 ** _Beware the CSS sinkhole of time_ **
 
 # Table of Contents
+
+## Code 102 Reading Notes
  
  [Markdown](https://yoshiontheloose.github.io/reading-notes/markdown)
  
@@ -38,3 +40,36 @@ Everyone is on their own journey, learning at their own pace.
  [Programming with Javascript](reading07.md)
 
  [Operators and Loops](reading08.md)
+
+
+ ## Code 201 Reading Notes
+
+ [Review HTML ](reading04.md)
+ 
+ [Reading02]()
+ 
+ [Reading03]()
+ 
+ [Reading04]()
+ 
+ [Reading05]()
+ 
+ [Reading06]()
+ 
+ [Reading07]()
+ 
+ [Reading08]()
+ 
+ [Reading09]()
+ 
+ [Reading10]()
+ 
+ [Reading11]()
+ 
+ [Reading12]()
+ 
+ [Reading13]()
+ 
+ [Reading14]()
+ 
+ [Reading15]()

@@ -25,9 +25,26 @@ Designing Navigation Principles
     Concise, Clear, Selective, Context, Interactive, Consistent
 
 
-# HTML Layout Chapter 17
+# HTML5 Layout Chapter 17
+HTML 5 - page structure using newer elements
+- \<div> is an older element that began an element ID
 
 
 # Extra Markup Chapter 8
 
+**Doctype**- Tells a web page what version of HTML it is using. Helps correctly render a page. Web pages _should_ always start with declaring the doctype. 
+
+\<!-- comment -->
+- use this to add a comment in your HTML and invisible on your page
+
+ID Attribute - aka _global attribute_ 
+- All HTML elements can have one
+- Useful for separating/distinguishing **one** element from multiple elements that are the same, especially when CSS and Javascript come into play
+
+Class Attribute - 
+- All HTML elements can have one
+- Useful for distinguishing **multiple** elements of the same type into a category
+
+Block Elements
+Inline Elements
 

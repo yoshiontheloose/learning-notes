@@ -57,7 +57,7 @@ Loops check a condition.
 Three common types of loops
 
 **For** - when you need to run code a specific number of times
-    
+* (when you know how many times a loop will run)    
     * condition is usually a counter which is used to tell how many times the loop should run
 
 **While** - used when you do not know how many times a code should run
@@ -92,3 +92,4 @@ Update
 Key difference between a _while_ loop and a _do while_ loop 
     * statements in the code block come before the condition. Statements run once whether or not the condition is met
 
+((2 * 90) === 180) && (false && 'true')

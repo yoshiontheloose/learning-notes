@@ -18,7 +18,7 @@
  ### Text Key
  Bold | \*\*Bold\*\* or \_Bold_
  ----- | -----
- Italic | \*italic* or \-italic-
+ Italic | \*italic* or \_italic_
  strikethrough | \~~strikethrough~~
  All bold and italic | \*\*\*allboldanditalic\*\*\*
  Quote text | \> or highlight text, type "r"
