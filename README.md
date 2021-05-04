@@ -29,46 +29,46 @@ Everyone is on their own journey, learning at their own pace.
  
  [Git Notes](https://yoshiontheloose.github.io/reading-notes/git-notes)
 
- [HTML Reading](reading04.md)
+ [HTML Reading](102/reading04.md)
 
- [Understanding CSS](reading05.md)
+ [Understanding CSS](102/reading05.md)
 
- [Javascript Basics](reading06A.md)
+ [Javascript Basics](102/reading06A.md)
 
- [reading 06B](reading06B.md)
+ [reading 06B](102/reading06B.md)
 
- [Programming with Javascript](reading07.md)
+ [Programming with Javascript](102/reading07.md)
 
- [Operators and Loops](reading08.md)
+ [Operators and Loops](102/reading08.md)
 
 
- ## Code 201 Reading Notes
+## Code 201 Reading Notes
 
- [Review HTML ](reading04.md)
+ [Review HTML ](201/reading04.md)
  
- [Reading02]()
+ [Reading02](201/)
  
- [Reading03]()
+ [Reading03](201/)
  
- [Reading04]()
+ [Reading04](201/)
  
- [Reading05]()
+ [Reading05](201/)
  
- [Reading06]()
+ [Reading06](201/)
  
- [Reading07]()
+ [Reading07](201/)
  
- [Reading08]()
+ [Reading08](201/)
  
- [Reading09]()
+ [Reading09](201/)
  
- [Reading10]()
+ [Reading10](201/)
  
- [Reading11]()
+ [Reading11](201/)
  
- [Reading12]()
+ [Reading12](201/)
  
- [Reading13]()
+ [Reading13](201/)
  
  [Reading14]()
  
