@@ -38,7 +38,7 @@ HTML source code of a page will not be changed by the JS
     * Will not be processed 
     * used for short descriptions of what the code is doing
 
-# Variables - stores info that you specified so the script can do its job. "short term memory"
+## Variables - stores info that you specified so the script can do its job. "short term memory"
 * data stored in a variable can change each time a script runs  
     * EX: width x height = area
         - the measurements for width and height can vary.
@@ -57,10 +57,10 @@ EX: var quantity;
          - first word is all lowercase, all words after that must have their first letter capitalized
          - referred to as "camelCase" ...which is also a good example of names longer than one word
     
-    Name should describe the kind of data the variable holds
-    Keywords cannot be used as variable name
-    Case sensitive
-    Do not use same word twice in a name
+    Name should describe the kind of data the variable holds.
+    Keywords cannot be used as variable name.
+    Case sensitive.
+    Do not use same word twice in a name.
     Name must begin with a letter, dollar sign $, or underscore _
     
 _When declaring a variable in JS, you do not need to specify what type of data it will hold_
@@ -98,14 +98,23 @@ JS distinguishs between numbers, strings, and booleans
 
 _Escaping_ the quotation characters - backslash before any type of quote mark appearing within the string. Makes quotations inside a string "disappear" so the interpreter knows it is part of the string rather than the end of it. 
 
-
-
-
-
-
-
-
-
-
 Types of selectors 
     [source](https://www.w3schools.com/css/css_selectors.asp)
+
+**Expression** - evaluates into a single value
+    *Expressions that only assign a value to a variable
+        - A variable needs to be given a value to be useful
+    * Expressions that use two or more values to return a single value
+
+**Operators** - Allow programmers to create a single value from one or more values
+    * Expressions rely on operators
+### Types of operators
+    * Assignment operators
+    * Arithmetic operators 
+        - multiplication and division before addition and subtraction ...basic algebra stuff
+    * String operator
+        - the + symbol
+        - **Concatenation** - two or more strings joined together to make one new string 
+        - you cannot perform addition operations on strings
+    * comparison operators
+    * logical operators

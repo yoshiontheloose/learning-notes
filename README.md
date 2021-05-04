@@ -46,7 +46,7 @@ Everyone is on their own journey, learning at their own pace.
 
  [Review HTML ](201/reading04.md)
  
- [Reading02](201/)
+ [HTML and Javascript review](201/reading02.md)
  
  [Reading03](201/)
  
