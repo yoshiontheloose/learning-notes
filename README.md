@@ -48,9 +48,9 @@ Everyone is on their own journey, learning at their own pace.
  
  [HTML and Javascript review](201/reading02.md)
  
- [Reading03](201/reading03.md)
+ [Lists, Boxes, and Loops! oh my.](201/reading03.md)
  
- [Reading04](201/)
+ [Reading04](201/reading04.md)
  
  [Reading05](201/)
  
