@@ -65,6 +65,6 @@ Declaring functions that need parameters
 * a function that needs specific information to perform it's task
 * parameters are used like variables within the function
     - In function getArea(width, height)
-        (width, height) is the parameter    
-    
-    *Arguments - variables are more specific. The example above would have the numbers of width and height. 
+        (width, height) is the parameter
+
+    *Arguments - variables are more specific. The example above would have the numbers of width and height.
