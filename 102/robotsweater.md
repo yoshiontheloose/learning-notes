@@ -12,4 +12,3 @@ place right arm through right arm hole
 
 
 
-

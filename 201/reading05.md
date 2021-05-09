@@ -29,3 +29,7 @@
 
 
 "Reference for a TLDR" - https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d
+
+
+
+[<<<Back](README.md)

@@ -23,11 +23,11 @@ Everyone is on their own journey, learning at their own pace.
 
 ## Code 102 Reading Notes
  
- [Markdown](https://yoshiontheloose.github.io/reading-notes/markdown)
+ [Markdown](102/markdown.md)
  
- [The Coder's Computer](https://yoshiontheloose.github.io/reading-notes/the-coders-computer)
+ [The Coder's Computer](102/the-coders-computer.md)
  
- [Git Notes](https://yoshiontheloose.github.io/reading-notes/git-notes)
+ [Git Notes](102/git-notes.md)
 
  [HTML Reading](102/reading04.md)
 
@@ -70,6 +70,6 @@ Everyone is on their own journey, learning at their own pace.
  
  [Reading13](201/)
  
- [Reading14]()
+ [Reading14](201/)
  
- [Reading15]()
+ [Reading15](201/)

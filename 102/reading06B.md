@@ -30,12 +30,4 @@ The more wires the larger numbers can be stored
 text image sound also can be represented with numbers
 
 
-
-
-
-
-
-
-
-
-
+[<<<Back](README.md)
