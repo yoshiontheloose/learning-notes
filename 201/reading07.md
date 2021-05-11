@@ -1,6 +1,15 @@
 # Domain Modeling
 Article [https://github.com/codefellows/domain_modeling#domain-modeling]
 
+**Domain Modeling** - Creating a conceptual model in code for a specific problem
+
+**Object oriented model** - entity that stores data in properties and summarizes behaviors in methods
+
+Use constructor function to derfine the same properties between many objects.
+Constructor function is defined with a _function expression_
+
+
+
 
 
 

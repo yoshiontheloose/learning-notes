@@ -54,9 +54,9 @@ Everyone is on their own journey, learning at their own pace.
  
  [HTML Images, Color Text](201/reading05.md)
  
- [JS Object Literals, Document Object Model, Understanding Problem Domain Article](201/)
+ [JS Object Literals, Document Object Model, Understanding Problem Domain Article](201/readind06.md)
  
- [HTML Tables, JS Functions Methods Objects, Domain Modeling Article](201/)
+ [HTML Tables, JS Functions Methods Objects, Domain Modeling Article](201/reading07.md)
  
  [Reading08](201/)
  
