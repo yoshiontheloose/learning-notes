@@ -1,4 +1,5 @@
-** Duckett HTML Book **
+***Duckett HTML Book***
+
 # Chapter 5: Images (p 94-125)
 
 
