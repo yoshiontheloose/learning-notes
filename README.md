@@ -50,13 +50,13 @@ Everyone is on their own journey, learning at their own pace.
  
  [Lists, Boxes, and Loops! oh my.](201/reading03.md)
  
- [CSS Links/Layouts, JS Functions](201/reading04.md)
+ [CSS Links/Layouts, JS Functions, Pair Programming Article](201/reading04.md)
  
- [Reading05](201/reading05.md)
+ [HTML Images, Color Text](201/reading05.md)
  
- [Reading06](201/)
+ [JS Object Literals, Document Object Model, Understanding Problem Domain Article](201/)
  
- [Reading07](201/)
+ [HTML Tables, JS Functions Methods Objects, Domain Modeling Article](201/)
  
  [Reading08](201/)
  
