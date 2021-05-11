@@ -50,7 +50,7 @@ Everyone is on their own journey, learning at their own pace.
  
  [Lists, Boxes, and Loops! oh my.](201/reading03.md)
  
- [Reading04](201/reading04.md)
+ [CSS Links/Layouts, JS Functions](201/reading04.md)
  
  [Reading05](201/reading05.md)
  
