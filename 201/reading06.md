@@ -78,5 +78,3 @@ Working with the DOM tree - Accessing and updating
 - Step 2: Work with those elements  
 
 Dom queries - methods that find elements in the DOM tree.
-
-

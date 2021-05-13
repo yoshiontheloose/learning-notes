@@ -30,6 +30,7 @@ Internal \<style>
 _Markup_ - aka tags. Remember closing tags (\</tag>)
 
 **Structural Markup**: tags for structure of the web page.
+
 - \<h1-h6> headings, h1 biggest size
 - \<p> paragraphs
 - \<sup> superscript tag EX: dates. 4<sup>th</sup> written as 4\<sup>th\</sup>

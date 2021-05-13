@@ -37,6 +37,7 @@ longer pages with multiple sections can contain section links.
 - value of id attribute starts with letter or underscore.
 - no two id can be the same.  
 
+---
 # Chapter 15: “Layout” (p 358-404)
 
 CSS treats each HTML element as if it's in it's own box.
@@ -139,9 +140,7 @@ Function name is also known as an _Identifier_.
 
 Methods are the same as funtions, except they are created inside an object.
 
-
-
-
+---
 
 # Article: Pair Programming 
 Source: [https://www.codefellows.org/blog/6-reasons-for-pair-programming/]  
