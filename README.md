@@ -62,7 +62,7 @@ Everyone is on their own journey, learning at their own pace.
  
  [Reading09](201/)
  
- [Reading10](201/)
+ [Error Handling and Debugging](201/reading10.md)
  
  [Reading11](201/)
  
