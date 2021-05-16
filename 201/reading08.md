@@ -55,6 +55,7 @@ Measurements in percentages. Size stretches or shrinks.
 
 Grids help structure the page.  
 
+-----
 # Lecture Notes 
 Source: [https://github.com/codefellows/seattle-code-201d75/blob/main/class-08/lectureNotes.md]
 

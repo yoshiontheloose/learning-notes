@@ -51,7 +51,7 @@ CSS treats each HTML element as if it's in it's own box.
 - **Containing element/parent element**: A block level element containing other block level elements.
   * Ex: `<div> <body>`
 
-### Positioning
+## Positioning
 
 Specify positioning scheme in css by using `position:` property.  
 
@@ -93,6 +93,7 @@ Measurements in percentages. Size stretches or shrinks.
 
 Grids help structure the page.  
 
+---
 ***Duckett JS book***
 
 # Chapter 3: “Functions, Methods, and Objects” (p 86-99)
@@ -101,7 +102,7 @@ Grids help structure the page.
 
 Functions let you group statements together to perform a certain task. Code organizers.
 
-Used when parts of a script repeat the same task.
+- Used when parts of a script repeat the same task.
 
 _"Calling a function"_ - asking the function to perform.
 
@@ -129,14 +130,13 @@ Function name is also known as an _Identifier_.
 
 **Immediately invoked function expressions** (IIFE)
 
-  - not given a name, executed once the interpreter comes across them. 
-  - used for code that only needs to run once within a task.
+- not given a name, executed once the interpreter comes across them.
+- used for code that only needs to run once within a task.
 
-### Variable Scope
-**Local Variables** - aka "function level." Variable created inside a function, can only be used in that function. 
+## Variable Scope
+**Local Variables** - aka "function level." Variable created inside a function, can only be used in that function.
 
-**Global Variables** - variable created outside a function. Can be used anywhere within the script. Use more memory. 
-
+**Global Variables** - variable created outside a function. Can be used anywhere within the script. Use more memory.
 
 Methods are the same as funtions, except they are created inside an object.
 

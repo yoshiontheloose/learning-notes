@@ -51,7 +51,7 @@ console.log() - checks expected values
 console.info() - general information  
 console.warn() - used for warnings  
 console.error() - used to hold errors  
-console.group() - groups console messages together. Needs to close the group with console.groupEnd()
+console.group() - groups console messages together. Needs to close the group with console.groupEnd()  
 console.table() - output of a table, shows objects and arrays  
 console.assert() - tests a condition, only alerts when false
 

@@ -2,10 +2,11 @@
 [Article Source:](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)  
 
 Writer suggests learning the problem domain is the hardest part of programming. It's like a puzzle!
-Take one part of the problem and fully understand that part before moving on to the next. 
+Take one part of the problem and fully understand that part before moving on to the next.
 
 ----
 ***Duckett Javascript Book***
+
 # Chapter 3: Object Literals (p 100-105)
 
 ## What is an Object?
@@ -32,7 +33,7 @@ Literal notation is the easiest and most popular way to create objects.
 
 Setting properties - treat values like you do for variables. Strings go in quotes and arrays go in square brackets.
 
-### Accessing an object (p103)
+## Accessing an object (p103)
 
 **Dot Notation** - name of object, period, name of property or method you want to access.
 
