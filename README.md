@@ -64,7 +64,7 @@ Everyone is on their own journey, learning at their own pace.
  
  [Error Handling and Debugging](201/reading10.md)
  
- [Reading11](201/)
+ [HTML Images, Practical Information, Video API Article](201/reading11.md)
  
  [Reading12](201/)
  

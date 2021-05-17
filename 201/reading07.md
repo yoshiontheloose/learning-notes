@@ -8,7 +8,7 @@ Article [https://github.com/codefellows/domain_modeling#domain-modeling]
 Use constructor function to derfine the same properties between many objects.
 Constructor function is defined with a _function expression_
 
-
+---
 _Duckett HTML book_
 # Chapter 6: Tables (p126-142)
 
@@ -52,5 +52,88 @@ Old code ways on (p137-8)
 
 ---
 _Duckett JS Book_
+
 # Chapter 3: Functions, Methods, and Objects (p106-144)
 
+## ***Creating an object***
+
+---
+
+## Literal Notation
+
+```
+let hotel = {       //properties
+  name: 'Hilton',
+  rooms: 40,
+  booked: 10,
+
+  checkAvailability: function() {     //method
+    return this.rooms - this.booked;
+  }
+}
+```
+
+---
+## Constructor Notation - create a blank object
+
+Keyword - new  
+object constructor function  
+
+Blank object:
+
+```
+let hotel = new Object();
+```
+
+Add properties and methods with _dot notation_  
+
+```
+let hotel = new Object();
+
+hotel.name = 'Hilton';
+hotel.rooms = 40;
+hotel.booked = 10;   
+// properties
+
+hotel.checkAvailability = function() {
+  return this.rooms - this.booked;
+}                 // method
+
+```
+
+To create an empty object using literal notation use `var hotel = {}`
+
+To update the value of properties, use dot notation or square brackets
+- `hotel.name = 'Park'` or 
+- `hotel['name'] = 'Park';`
+
+To delete a property, use delete keyword: `delete hotel.name;`
+
+To clear value of a property, set it to blank: `hotel.name = '';`
+
+---
+
+## Constructor Notation - create many objects
+
+When you want several objects to represent similar things
+
+Object constructors can use a function as a template for creating objects
+
+Keyword ***"this"*** is used instead of the object name.  
+Property or method with "this" keyword belongs to the object "this" function creates.
+
+***Constructor function names begin with a capital letter!***
+
+```
+function Hotel(name, rooms, booked) {
+  this.name = name;
+  this.rooms = rooms;
+  this.booked = booked;
+
+  this.checkAvailability = function() {
+    return this.rooms - this.booked;
+  }
+}
+```
+
+Constructor function creates _"instances"_ of an object.

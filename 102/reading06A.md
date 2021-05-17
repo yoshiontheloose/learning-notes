@@ -65,7 +65,7 @@ EX: var quantity;
     
 _When declaring a variable in JS, you do not need to specify what type of data it will hold_
 
-## Assigning a value to the variable 
+## Assigning a value to the variable
 
 _Assignment operator_ - the equals sign =
 * says that you will assign a value to the variable

@@ -46,7 +46,7 @@ CSS treats each HTML element as if it's in it's own box.
   * Ex: `<h1> <p> <ul> <li>`
   
 - **Inline element**: Flow between surrounding text.
-  * Ex: `<img> <b> <i>`
+  * Ex: `<img> <b> <i>` `<a>` `<em>`
 
 - **Containing element/parent element**: A block level element containing other block level elements.
   * Ex: `<div> <body>`
@@ -134,6 +134,7 @@ Function name is also known as an _Identifier_.
 - used for code that only needs to run once within a task.
 
 ## Variable Scope
+
 **Local Variables** - aka "function level." Variable created inside a function, can only be used in that function.
 
 **Global Variables** - variable created outside a function. Can be used anywhere within the script. Use more memory.
