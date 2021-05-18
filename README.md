@@ -66,7 +66,7 @@ Everyone is on their own journey, learning at their own pace.
  
  [HTML Images, Practical Information, Video API Article](201/reading11.md)
  
- [Reading12](201/)
+ [Canvas](201/reading12.md)
  
  [Reading13](201/)
  
