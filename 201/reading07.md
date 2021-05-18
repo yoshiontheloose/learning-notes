@@ -193,5 +193,11 @@ Access their properties or methods with dot notation.
 Three groups of built-in objects:
 
 - Browser Object Model (window, history, location, navigator, screen)
+  - window. properties (p124)
+
 - Document Object Model (document, html, head, body)
+  - document. properties (p126)
+
 - Global Javascript Objects (String, Number, Boolean, Undefined, Null) Also (Date, Math, Regex)
+  - (p128)
+  - math. properties (p134) 
