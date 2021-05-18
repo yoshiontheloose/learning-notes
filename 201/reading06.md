@@ -72,7 +72,7 @@ The DOM states what your script can ask the browser and how to tell the browser 
 
     - **Text Node**
 
-Working with the DOM tree - Accessing and updating 
+Working with the DOM tree - Accessing and updating
 
 - Step 1: Access the elements
   * can select by id attribute, CSS selector, class name, or tag name

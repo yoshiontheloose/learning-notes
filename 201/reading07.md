@@ -55,7 +55,11 @@ _Duckett JS Book_
 
 # Chapter 3: Functions, Methods, and Objects (p106-144)
 
-## ***Creating an object***
+## Ways to Create Objects
+
+---
+
+## ***Create the object, then add properties and methods***
 
 ---
 
@@ -70,11 +74,10 @@ let hotel = {       //properties
   checkAvailability: function() {     //method
     return this.rooms - this.booked;
   }
-}
+};
 ```
 
----
-## Constructor Notation - create a blank object
+## Object Constructor Notation
 
 Keyword - new  
 object constructor function  
@@ -90,18 +93,16 @@ Add properties and methods with _dot notation_
 ```
 let hotel = new Object();
 
-hotel.name = 'Hilton';
+hotel.name = 'Hilton';      // properties
 hotel.rooms = 40;
 hotel.booked = 10;   
-// properties
 
-hotel.checkAvailability = function() {
+hotel.checkAvailability = function() {      // method
   return this.rooms - this.booked;
-}                 // method
-
+};                 
 ```
 
-To create an empty object using literal notation use `var hotel = {}`
+To create an empty object using literal notation use `let hotel = {}`
 
 To update the value of properties, use dot notation or square brackets
 - `hotel.name = 'Park'` or 
@@ -112,8 +113,26 @@ To delete a property, use delete keyword: `delete hotel.name;`
 To clear value of a property, set it to blank: `hotel.name = '';`
 
 ---
+## ***Creating an Object With Properties and Methods***
 
-## Constructor Notation - create many objects
+---
+
+## Literal Notation
+
+Uses commas between each key/value pair.  
+If the method needs parameters, supply them in the parentheses
+```
+let hotel = {           
+  name: 'Hilton',             //Properties
+  rooms: 40,
+  booked: 10,
+  checkavailability: function() {         //method
+    return this.rooms - this.booked;
+  }
+};
+```
+
+## Object Constructor Notation - a function used to create many objects
 
 When you want several objects to represent similar things
 
@@ -124,16 +143,55 @@ Property or method with "this" keyword belongs to the object "this" function cre
 
 ***Constructor function names begin with a capital letter!***
 
+Constructor function creates _"instances"_ of an object.  
+Keyword "new" followed by a call to the function creates a new object.  
+Properties of each object are given as "arguments" to the function
+
+
 ```
 function Hotel(name, rooms, booked) {
-  this.name = name;
+  this.name = name;             //Properties
   this.rooms = rooms;
   this.booked = booked;
 
-  this.checkAvailability = function() {
+  this.checkAvailability = function() {       //Method
     return this.rooms - this.booked;
-  }
+  };
 }
+let hiltonHotel = new Hotel('Hilton', 40, 10);    //constructor function
+let parkHotel = new Hotel('Park', 120, 77);
+
 ```
 
-Constructor function creates _"instances"_ of an object.
+---
+
+A function at the top of a script (NOT inside another object or function) is considered in **global scope** or **global context**.
+
+## Arrays
+
+Arrays are a special type of object.  
+Recap: 
+
+- Like objects, they have key/value pairs, but the key for it's values are the _index number_
+- Arrays have a _"length"_ property that tells how many items are in the array. (.length)
+
+_Arrays in an object_  
+Object properties can hold arrays
+
+_Objects in an array_  
+Arrays can store a series of objects in their order.
+  
+  - uses object literal syntax. curly braces instead of squares, key: value.
+
+
+## Built in Objects (start p120)
+
+Built in objects contain the functionality needed by scripts.  
+They help you get information about the browser window based on the object type.  
+Access their properties or methods with dot notation.
+
+Three groups of built-in objects:
+
+- Browser Object Model (window, history, location, navigator, screen)
+- Document Object Model (document, html, head, body)
+- Global Javascript Objects (String, Number, Boolean, Undefined, Null) Also (Date, Math, Regex)

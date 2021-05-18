@@ -31,4 +31,4 @@ File upload |  ..
 
 ---
 ***Duckett JS Book***
-Chapter 6: Events (p243-292)
+# Chapter 6: Events (p243-292)

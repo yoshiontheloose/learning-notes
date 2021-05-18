@@ -56,7 +56,7 @@ Everyone is on their own journey, learning at their own pace.
  
  [JS Object Literals, Document Object Model, Understanding Problem Domain Article](201/reading06.md)
  
- [HTML Tables, JS Functions Methods Objects, Domain Modeling Article](201/reading07.md)
+ [HTML Tables, JS Functions/Methods/Objects, Domain Modeling Article](201/reading07.md)
  
  [HTML Layout. All by it's lonesome for review.](201/reading08.md)
  
