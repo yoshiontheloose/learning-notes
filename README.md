@@ -68,7 +68,7 @@ Everyone is on their own journey, learning at their own pace.
  
  [Canvas](201/reading12.md)
  
- [Reading13](201/)
+ [The Past, Present, and Future of Local Storage for Web Applications](201/reading13.md)
  
  [Reading14](201/)
  
