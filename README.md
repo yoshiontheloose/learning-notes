@@ -70,6 +70,8 @@ Everyone is on their own journey, learning at their own pace.
  
  [The Past, Present, and Future of Local Storage for Web Applications](201/reading13.md)
  
- [Reading14](201/)
+ [Reading14a](201/)
+
+ [Psychological Safety Article](201/reading14b.md)
  
  [Reading15](201/)
