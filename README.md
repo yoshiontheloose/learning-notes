@@ -10,7 +10,7 @@ The ability to take oneself out of a comfort zone to learn something new while p
 * _ask questions or research when met with an obstacle_
 * _take a step back when needed then re-engage_
   
-:partying_face:	:partying_face:	
+:partying_face:
 
 ### Food for Positivity
 Everyone is on their own journey, learning at their own pace. 
@@ -19,28 +19,11 @@ Everyone is on their own journey, learning at their own pace.
 
 ** _Beware the CSS sinkhole of time_ **
 
+---
+
 # Table of Contents
 
-## Code 102 Reading Notes
- 
- [Markdown](102/markdown.md)
- 
- [The Coder's Computer](102/the-coders-computer.md)
- 
- [Git Notes](102/git-notes.md)
-
- [HTML Reading](102/reading04.md)
-
- [Understanding CSS](102/reading05.md)
-
- [Javascript Basics](102/reading06A.md)
-
- [reading 06B](102/reading06B.md)
-
- [Programming with Javascript](102/reading07.md)
-
- [Operators and Loops](102/reading08.md)
-
+---
 
 ## Code 201 Reading Notes
 
@@ -73,5 +56,25 @@ Everyone is on their own journey, learning at their own pace.
  [CSS Animations](201/reading14A.md)
 
  [Psychological Safety Article](201/reading14B.md)
+
+ ---
+ ---
+ ## Code 102 Reading Notes
  
- [Reading15](201/)
+ [Markdown](102/markdown.md)
+ 
+ [The Coder's Computer](102/the-coders-computer.md)
+ 
+ [Git Notes](102/git-notes.md)
+
+ [HTML Reading](102/reading04.md)
+
+ [Understanding CSS](102/reading05.md)
+
+ [Javascript Basics](102/reading06A.md)
+
+ [reading 06B](102/reading06B.md)
+
+ [Programming with Javascript](102/reading07.md)
+
+ [Operators and Loops](102/reading08.md)
