@@ -26,7 +26,7 @@ Everyone is on their own journey, learning at their own pace.
 
 ## Code 301 Intermediate Software Development
 
-
+[Introduction to React and Components](301/reading01.md)
 
 ---
 
