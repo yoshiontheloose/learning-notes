@@ -27,13 +27,21 @@ Everyone is on their own journey, learning at their own pace.
 ## Code 301 Intermediate Software Development
 
 [Prep: React](301/PrepReact.md)
+
 [Introduction to React and Components](301/reading01.md)
+
 [](301/)
+
 [](301/)
+
 [](301/)
+
 [](301/)
+
 [](301/)
+
 [](301/)
+
 [](301/)
 
 ---
