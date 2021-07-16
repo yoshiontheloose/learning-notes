@@ -3,6 +3,8 @@ Source [https://www.tutorialspoint.com/software_architecture_design/component_ba
 
 **What is a component?**
 
+"A piece of a whole"
+
 **What are the charactistics of a component?**
 
 - Components can be reusable for different situations and applications
@@ -57,3 +59,5 @@ Their data is also ***read-only***, the child components should not change the p
 ## Things I want to know more about
 
 A better way to explain what is a component
+
+[<<<Back](README.md)

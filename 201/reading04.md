@@ -139,7 +139,7 @@ Function name is also known as an _Identifier_.
 
 **Global Variables** - variable created outside a function. Can be used anywhere within the script. Use more memory.
 
-Methods are the same as funtions, except they are created inside an object.
+Methods are the same as functions, except they are created inside an object.
 
 ---
 

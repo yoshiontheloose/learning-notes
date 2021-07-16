@@ -30,7 +30,7 @@ Everyone is on their own journey, learning at their own pace.
 
 [Introduction to React and Components](301/reading01.md)
 
-[](301/)
+[React Lifecycle, State, and Props](301/reading02.md)
 
 [](301/)
 

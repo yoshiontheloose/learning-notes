@@ -85,7 +85,8 @@ ___
 
 # Chapter 4: Decisions and Loops from switch statements on (p 162-182)
 
-## If/Else Statements 
+## If/Else Statements
+
 - checks a condition. If it's true, the first code block is executed. If false, the second code block is run instead.
 
 - EX:  
@@ -109,7 +110,9 @@ ___
 - has a default option that is run if no cases match
 
 - EX: Give the level title
+
 ``` 
+
 switch (level) {  
 
 case 'one':
@@ -162,9 +165,11 @@ Condition
 Update  
 
 For Loop EX:  
-``` 
+
+```
 for (let i = 0; i < value; i++)
 ```
+
 initialization: let i = 0;  
 Condition: i < value;  
 Update: i++

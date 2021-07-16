@@ -32,3 +32,5 @@ Down from a component to it's children
 **Every component manages its own ____.**
 
 State and pass it down to it's children
+
+[<<<Back](README.md)
