@@ -32,7 +32,7 @@ Everyone is on their own journey, learning at their own pace.
 
 [React Lifecycle, State, and Props](301/reading02.md)
 
-[](301/)
+[Passing Functions as Props](301/reading03.md)
 
 [](301/)
 
@@ -44,6 +44,7 @@ Everyone is on their own journey, learning at their own pace.
 
 [](301/)
 
+---
 ---
 
 ## Code 201 Foundations of Software Development
