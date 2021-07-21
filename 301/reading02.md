@@ -21,10 +21,13 @@ Source: (https://medium.com/@joshuablankenshipnola/react-component-lifecycle-eve
 
 > ### State vs Props
 
-- Props is passed into a component. Handled/updated _outside_ the component.
+- Props passes data froom parent to child.
+  - Child CANNOT change props
+  - Handled/updated _outside_ the component.
   - Useful for displaying information in a component without hard coding
 
-- State is handled/updated _inside_ the component.
+- State is data that belongs to the component, it CAN change.
+  - handled/updated _inside_ the component.
   - Changes are stored in state so they render properly.
 
 <br>

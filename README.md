@@ -34,7 +34,7 @@ Everyone is on their own journey, learning at their own pace.
 
 [Passing Functions as Props](301/reading03.md)
 
-[](301/)
+[React and Forms, Ternary Operators](301/reading04.md)
 
 [](301/)
 
