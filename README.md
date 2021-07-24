@@ -36,7 +36,7 @@ Everyone is on their own journey, learning at their own pace.
 
 [React and Forms, Ternary Operators](301/reading04.md)
 
-[](301/)
+[React Docs - Thinking in React](301/reading05.md)
 
 [](301/)
 
