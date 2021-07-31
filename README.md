@@ -40,7 +40,7 @@ Everyone is on their own journey, learning at their own pace.
 
 [NODE.js](301/reading06.md)
 
-[](301/)
+[REST and API Key Links](301/reading07.md)
 
 [](301/)
 
