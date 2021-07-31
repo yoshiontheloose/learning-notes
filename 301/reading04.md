@@ -83,10 +83,10 @@ x===y ? 'true' : 'false'
 ### Additional Sources Provided by Reading Topic
 
 React Bootstrap - Forms
-(https://react-bootstrap.github.io/components/forms/)
+[](https://react-bootstrap.github.io/components/forms/)
 
 React Docs - conditional rendering
-(https://reactjs.org/docs/conditional-rendering.html)
+[](https://reactjs.org/docs/conditional-rendering.html)
 
 <br>
 
