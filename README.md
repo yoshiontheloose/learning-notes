@@ -42,6 +42,12 @@ Everyone is on their own journey, learning at their own pace.
 
 [REST and API Key Links](301/reading07.md)
 
+[APIs, RegExr](301/reading08.md)
+
+[Functional Programming](301/reading09.md)
+
+[](301/)
+
 [](301/)
 
 ---
