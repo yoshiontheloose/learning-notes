@@ -46,7 +46,7 @@ Everyone is on their own journey, learning at their own pace.
 
 [Functional Programming](301/reading09.md)
 
-[](301/)
+[JavaScript Call Stack, Error Messages](301/reading10.md)
 
 [](301/)
 
