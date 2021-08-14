@@ -48,6 +48,12 @@ Everyone is on their own journey, learning at their own pace.
 
 [JavaScript Call Stack, Error Messages](301/reading10.md)
 
+[Authorization and Authentication, OAuth](301/reading11.md)
+
+[](301/)
+
+[](301/)
+
 [](301/)
 
 ---
