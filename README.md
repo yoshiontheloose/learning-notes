@@ -50,11 +50,11 @@ Everyone is on their own journey, learning at their own pace.
 
 [Authorization and Authentication, OAuth](301/reading11.md)
 
-[](301/)
+[](301/reading12.md)
 
-[](301/)
+[](301/reading13.md)
 
-[](301/)
+[Diversity & Inclusion in the Tech Industry](301/reading14.md)
 
 ---
 ---
