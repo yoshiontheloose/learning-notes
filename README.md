@@ -50,9 +50,9 @@ Everyone is on their own journey, learning at their own pace.
 
 [Authorization and Authentication, OAuth](301/reading11.md)
 
-[](301/reading12.md)
+[Mongo and Mongoose](301/reading12.md)
 
-[](301/reading13.md)
+[CRUD](301/reading13.md)
 
 [Diversity & Inclusion in the Tech Industry](301/reading14.md)
 
