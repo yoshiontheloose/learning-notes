@@ -1,15 +1,15 @@
-**Welcome! My name is Clarissa. This is my note taking page. You can find my Github profile [Here](https://github.com/yoshiontheloose)**
+# **Welcome! My name is Clarissa. This is my note taking page. You can find my Github profile [Here](https://github.com/yoshiontheloose)**
 
-# Growth Mindset
+## Growth Mindset
 
 The ability to take oneself out of a comfort zone to learn something new while perservering through new challenges towards growth.
 
-## Keeping the Growth Mindset
+### Keeping the Growth Mindset
 
 * _climb the wall of distractions_  
 * _ask questions or research when met with an obstacle_
 * _take a step back when needed then re-engage_
-  
+
 ### Food for Positivity
 
 Everyone is on their own journey, learning at their own pace.
@@ -24,7 +24,22 @@ Everyone is on their own journey, learning at their own pace.
 
 ---
 
-## Code 301 Intermediate Software Development
+## Code 401 - Advanced Software Development
+
+[Reading01](401/)
+
+[Reading02](401/)
+
+[Reading03](401/)
+
+[Reading04](401/)
+
+[Reading05](401/)
+
+---
+---
+
+## Code 301 - Intermediate Software Development
 
 [Prep: React](301/PrepReact.md)
 
@@ -59,7 +74,7 @@ Everyone is on their own journey, learning at their own pace.
 ---
 ---
 
-## Code 201 Foundations of Software Development
+## Code 201 - Foundations of Software Development
 
 [Review HTML](201/reading04.md)
 
@@ -94,12 +109,12 @@ Everyone is on their own journey, learning at their own pace.
  ---
  ---
 
-## Code 102 Intro to Software Development
+## Code 102 - Intro to Software Development
 
  [Markdown](102/markdown.md)
- 
+
  [The Coder's Computer](102/the-coders-computer.md)
- 
+
  [Git Notes](102/git-notes.md)
 
  [HTML Reading](102/reading04.md)
