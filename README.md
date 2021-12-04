@@ -26,7 +26,11 @@ Everyone is on their own journey, learning at their own pace.
 
 ## Code 401 - Advanced Software Development
 
-[Reading01](401/)
+[Growth Mindset](401/prep-growth.md)
+
+[Practice in Terminal](401/prep-terminal.md)
+
+[Reading01](401/reading01.md)
 
 [Reading02](401/)
 
