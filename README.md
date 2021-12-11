@@ -32,13 +32,17 @@ Everyone is on their own journey, learning at their own pace.
 
 [Big O Notation](401/reading01.md)
 
-[Reading02](401/)
+[Testing and Modules](401/reading02.md)
 
-[Reading03](401/)
+[Reading03](401/reading03.md)
 
 [Reading04](401/)
 
 [Reading05](401/)
+
+[Reading06](401/)
+
+[Reading07](401/)
 
 ---
 ---
