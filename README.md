@@ -23,6 +23,7 @@ Everyone is on their own journey, learning at their own pace.
 # Table of Contents
 
 ---
+---
 
 ## Code 401 - Advanced Software Development
 
@@ -36,7 +37,7 @@ Everyone is on their own journey, learning at their own pace.
 
 [Reading03](401/reading03.md)
 
-[Reading04](401/)
+[Reading04](401/reading04.md)
 
 [Reading05](401/)
 
