@@ -19,6 +19,12 @@
 
 ## Estimates
 <!-- See below -->
+Estimate of time needed to complete:
+
+Start time:
+Finish time:
+
+Actual time needed to complete:
 
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
