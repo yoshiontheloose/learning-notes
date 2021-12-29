@@ -43,7 +43,13 @@ Everyone is on their own journey, learning at their own pace.
 
 [Reading06](401/reading06.md)
 
-[Reading07](401/)
+[Reading07](401/reading07.md)
+
+[Reading08](401/)
+
+[Reading09](401/)
+
+[Reading10](401/)
 
 ---
 ---
