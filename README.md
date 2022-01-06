@@ -45,7 +45,7 @@ Everyone is on their own journey, learning at their own pace.
 
 [Reading07](401/reading07.md)
 
-[Reading08](401/)
+[Reading08](401/reading08.md)
 
 [Reading09](401/)
 
