@@ -1,4 +1,4 @@
-# Reading
+# Implementation: Linked Lists
 
 ## Big O: Analysis of Algorithm Efficiency
 

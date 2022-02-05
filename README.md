@@ -35,21 +35,39 @@ Everyone is on their own journey, learning at their own pace.
 
 [Testing and Modules](401/reading02.md)
 
-[Reading03](401/reading03.md)
+[FileIO & Exceptions](401/reading03.md)
 
-[Reading04](401/reading04.md)
+[Classes and Objects, Thinking Recursively](401/reading04.md)
 
-[Reading05](401/reading05.md)
+[Implementation: Linked Lists](401/reading05.md)
 
-[Reading06](401/reading06.md)
+[Random Module, Risk Analysis, Test Coverage](401/reading06.md)
 
-[Reading07](401/reading07.md)
+[Python Scope](401/reading07.md)
 
-[Reading08](401/reading08.md)
+[List Comprehension](401/reading08.md)
 
-[Reading09](401/)
+[Reading09](401/reading09.md)
 
-[Reading10](401/)
+[Stacks and Queues](401/reading10.md)
+
+[Data Analysis](401/reading11.md)
+
+[Pandas](401/reading12.md)
+
+[Linear Regressions](401/reading13.md)
+
+[Data Visualization](401/reading14.md)
+
+[Trees](401/reading15.md)
+
+[Serverless Functions](401/reading16.md)
+
+[Web Scraping](401/reading17.md)
+
+[Reading18](401/)
+
+[Reading19](401/)
 
 ---
 ---
