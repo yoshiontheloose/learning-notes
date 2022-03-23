@@ -25,7 +25,7 @@ Everyone is on their own journey, learning at their own pace.
 ---
 ---
 
-## Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development: Python
 
 [Prep: Growth Mindset](401/prep-growth.md)
 
@@ -65,9 +65,31 @@ Everyone is on their own journey, learning at their own pace.
 
 [Web Scraping](401/reading17.md)
 
-[Reading18](401/)
+[Cryptography](401/reading18.md)
 
-[Reading19](401/)
+[Automation](401/reading19.md)
+
+[Intro to Django](401/reading20.md)
+
+[Django Models](401/reading21.md)
+
+[Django CRUD and Forms](401/reading22.md)
+
+[Django Custom User](401/reading23.md)
+
+[Implementation: Hash Tables](401/reading24.md)
+
+[Django REST Framework & Docker](401/reading25.md)
+
+[Permissions & Postgresql](401/reading26.md)
+
+[Authentication & Production Server](401/reading27.md)
+
+[Reading28](401/)
+
+[Reading29](401/)
+
+[Reading30](401/)
 
 ---
 ---
