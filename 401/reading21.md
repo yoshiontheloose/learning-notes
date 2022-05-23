@@ -7,7 +7,6 @@
 [Source](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
 
 
-
 ### Django Admin (Optional: Advanced Configuration)
 
 [Source](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site)

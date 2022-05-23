@@ -85,11 +85,27 @@ Everyone is on their own journey, learning at their own pace.
 
 [Authentication & Production Server](401/reading27.md)
 
-[Reading28](401/)
+[API Deployment](401/reading28.md)
 
-[Reading29](401/)
+[Graphs](401/reading29.md)
 
-[Reading30](401/)
+[DSA Review](401/reading30.md)
+
+[React 1](401/reading31.md)
+
+[React II](401/reading32.md)
+
+[React III](401/reading33.md)
+
+[React IV](401/reading34.md)
+
+[Pythonisms](401/reading35.md)
+
+[Open-Source Software Contribution](401/reading36.md)
+
+[Code of Ethics](401/reading37.md)
+
+[Reading38](401/)
 
 ---
 ---
